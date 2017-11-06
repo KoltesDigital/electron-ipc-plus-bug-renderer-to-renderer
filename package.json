@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "electron-ipc-plus-bug-renderer-to-renderer",
+  "version": "1.0.0",
+  "description": "Bug",
+  "main": "src/main.js",
+  "author": "Jonathan Giroux",
+  "license": "MIT",
+  "dependencies": {
+    "electron-ipc-plus": "^1.3.4"
+  },
+  "devDependencies": {
+    "electron": "^1.7.9"
+  }
+}
